@@ -8,7 +8,7 @@ const StyledHeaderSection = styled.div`
   justify-content: center;
   align-items: center;
   height: 70px;
-  background: #17577e;
+  background: #17347e;
 `;
 
 const StyledBranding = styled.div`

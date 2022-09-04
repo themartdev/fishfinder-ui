@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const SContainer = styled.div`
-  width: 80%;
+  width: 85%;
   margin: 0 auto;
 `;
 

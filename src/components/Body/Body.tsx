@@ -9,7 +9,7 @@ import FishSection from "../FishSection";
 import { StylableComponentProps } from "../types";
 
 const StyledBodySection = styled.div`
-  background: linear-gradient(#17577e 10%, #c5bcb7 100%);
+  background: linear-gradient(#17347e 15%, #ff6b00 100%);
 `;
 
 const StyledSubtitle = styled.div`
